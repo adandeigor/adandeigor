@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Egor Adande (adandeigor)!
+# 👋 Hi, I'm Igor Adande (adandeigor)!
 
 **Full Stack Web Developer** from Benin, passionate about building modern, user-centered applications with clean and scalable code.
 
