@@ -1,22 +1,17 @@
-# 👋 Hi, I'm Igor Adande (adandeigor)!
+# 👋 Salut — je suis Igor Adande (adandeigor)
 
-**Full Stack Web Developer** from Benin, passionate about building modern, user-centered applications with clean and scalable code.
-
----
-
-## 🚀 About Me
-
-Driven by a passion for modern web technologies, I build useful, performant, and user-centered applications. I enjoy solving real-world problems through clean and scalable code.
-
-- 🌍 Based in **Benin**
-- 🧩 Anime & manga enthusiast
-- ♟️ Chess player
-- 🖥️ Tinkerer — love experimenting with local web servers
+Full‑stack Web Developer basé au Bénin — je conçois des applications modernes, performantes et orientées utilisateur, avec une approche claire et maintenable.
 
 ---
 
-## 🛠️ Core Skills
+## 🚀 À propos
+- Passion : transformer les problèmes réels en produits numériques utiles.
+- Localisation : Bénin
+- Centres d'intérêt : anime & manga, échecs, expérimentation de serveurs web locaux.
 
+---
+
+## 🛠️ Compétences clés
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -28,31 +23,48 @@ Driven by a passion for modern web technologies, I build useful, performant, and
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projets phares
+- 🔗 Portfolio — https://adandeigor.me • repo: https://github.com/adandeigor/portfolio-v2
 
-### 🎮 Otaku Quiz Game
-An anime-themed quiz game with:
-- Local data storage
-- Dynamic leaderboards
+- 📚 Curribuilder — Suite complète (landing, app, API)
+  - https://github.com/adandeigor/curribuilder
+  - https://github.com/adandeigor/app-curribuilder
+  - https://github.com/adandeigor/api-curribuilder
+  Système de gestion de présence avec QR codes, notifications et tableau de bord.
 
-### 🏫 School Attendance Management System
-A robust attendance solution featuring:
-- QR code scanning for quick check-ins
-- Automated alerts for absences
+- ✈️ Aeroguard — front + API
+  - https://github.com/adandeigor/aeroguard
+  - https://github.com/adandeigor/api-aeroguard
+
+- 🤖 Email Spam Classifier — https://github.com/adandeigor/emailSpamClassifier
+
+- 🔒 encrypt-dev — https://github.com/adandeigor/encrypt-dev
+
+- 💡 autres : https://github.com/adandeigor/jim-dp, https://github.com/adandeigor/blog
 
 ---
 
-## 📫 Connect with Me
-
-- [GitHub](https://github.com/adandeigor)
+## 📸 Aperçu rapide
+![Aperçu projet 1](https://placehold.co/600x300?text=Capture+projet+1)
+![Aperçu projet 2](https://placehold.co/600x300?text=Capture+projet+2)
 
 ---
 
-<details>
-  <summary>✨ Fun Facts & Hobbies</summary>
-  <ul>
-    <li>Anime and manga fan — often building projects inspired by otaku culture</li>
-    <li>Enjoy playing chess in my free time</li>
-    <li>Love tinkering with web servers & learning new tech</li>
-  </ul>
-</details>
+## 📊 Statistiques GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adandeigor&layout=compact&theme=tokyonight)](https://github.com/adandeigor)
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=adandeigor&show_icons=true&theme=tokyonight)](https://github.com/adandeigor)
+
+---
+
+## 📫 Contact
+- GitHub : https://github.com/adandeigor
+- Email : (mettre ton email ici)
+- Portfolio : https://adandeigor.me
+
+---
+
+## 🔭 Actuellement
+En train de développer et améliorer plusieurs projets full‑stack axés sur la gestion scolaire, les outils de productivité, et des expériences utilisateur autour de la culture otaku.
+
+
+Merci d'avoir consulté — n'hésite pas à visiter mes dépôts et à me contacter pour collaborations, missions freelance ou questions techniques.
